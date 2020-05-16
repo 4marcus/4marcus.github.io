@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Wintermute ✖ Box
-
+sass:
+        sass_dir: _sass
+        style: compressed
+        
