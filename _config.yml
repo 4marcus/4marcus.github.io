@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Wintermute ✖ Box
 sass:
         sass_dir: _sass
