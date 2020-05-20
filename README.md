@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+GitHub Pages of box.wintermute.de
 
-Getting into GitHub Pages supported by [c't](https://ct.de/y2u3)
+Based on  [jekyll-now](https://github.com/barryclark/jekyll-now) 
